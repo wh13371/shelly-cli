@@ -32,7 +32,7 @@ your-project-directory/
 ### 3. Setup Configuration
 When you run the script for the first time, it will automatically detect if `config.json` is missing, generate a clean template, and exit:
 ```bash
-python shelly_cli.py
+python shelly-cli.py
 ```
 
 Open the n`config.json` file and add your specific Shelly device IPs:
