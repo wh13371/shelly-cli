@@ -25,7 +25,7 @@ pip install requests
 Keep the script and configuration template in the same local directory context:
 ```text
 your-project-directory/
-├── shelly_cli.py
+├── shelly-cli.py
 └── config.json
 ```
 
